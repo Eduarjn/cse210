@@ -1,7 +1,5 @@
 /*
-This program uses inheritance and encapsulation to organize the mindfulness activities in a clear class hierarchy.
-To exceed the core requirements, the reflecting activity was designed to avoid repeating prompts and questions until every option has been used during the current session, making the experience feel more varied and engaging.
-*/
+This program uses inheritance and encapsulation*/
 
 using System;
 
